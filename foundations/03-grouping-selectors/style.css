@@ -1,0 +1,14 @@
+.invert, .posh {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.invert {
+    background-color: black;
+    color: white;
+}
+
+.posh {
+    background-color: yellow;
+    color: black;
+}   

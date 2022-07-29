@@ -1,0 +1,21 @@
+.red-highlight {
+    background-color: #e2a5a5;
+    font-family: 'verdana', 'dejavu sans';
+}
+
+.big {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: #4545ab;
+    font-size: 36px;
+    font-family: 'verdana', 'dejavu sans';
+}
+
+#green-text {
+    background-color: #6ceab1;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'verdana', 'dejavu sans';
+}
